@@ -1,0 +1,135 @@
+[[ocl_icd]]
+arch = "aarch64"
+git-tree-sha1 = "4ad99f779d78d6f73afb204b9df7465d0727ceec"
+os = "macos"
+
+    [[ocl_icd.download]]
+    sha256 = "b1fc59f3248bad8da4619470d0fc65d039f995e69ed36953be639118a868e66c"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.aarch64-apple-darwin.tar.gz"
+[[ocl_icd]]
+arch = "aarch64"
+git-tree-sha1 = "4b62d75e17bd2d92c4330381623504f9d246ae70"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "1de68336c78514f74a0e528ff423178be268b4e18fa1ed750047e25b362208d4"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.aarch64-linux-gnu.tar.gz"
+[[ocl_icd]]
+arch = "aarch64"
+git-tree-sha1 = "4af8af69f8f2579b740c9c7a2a9fe5154cd32a50"
+libc = "musl"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "45f8b5450cf4ac9c732592ed0e99b9c567ce5001ab3b32f8a680ae2326194c6a"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.aarch64-linux-musl.tar.gz"
+[[ocl_icd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "e2770881218ea8dac282e0632d3dfdf945d66fd6"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "da418f5ed59cd9da4ab3706cc458cdf9cbe90db7df5857cd325ecdb19286ae39"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.armv6l-linux-gnueabihf.tar.gz"
+[[ocl_icd]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "c276dc6965d2f1d75a3c4561b52a8bae710b15bb"
+libc = "musl"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "93d00c205c5730b8069e0eb48eb8dd431276c6f597fba4d89887133f78431d79"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.armv6l-linux-musleabihf.tar.gz"
+[[ocl_icd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3195b585c08cf052223ed4cf7920d8aa0eaf5755"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "726b10cf3b7d74a0192baa5e4b15954a9382e7799a05ca8cf198207f1ad76a4d"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.armv7l-linux-gnueabihf.tar.gz"
+[[ocl_icd]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "ae16e2b4bc8641596206260b77397f76602d0e27"
+libc = "musl"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "6bf85ee0f4b19d719c7fcf427bb1caf4c6b148adc9624ba27a6ad0602c277459"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.armv7l-linux-musleabihf.tar.gz"
+[[ocl_icd]]
+arch = "i686"
+git-tree-sha1 = "3ba634d03724adc796b3afb4bf644cea5d16fd84"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "c0ec1fc223d2e1f8509802ffde498cd089fecefe8ab0c7d17ee9d79579594f76"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.i686-linux-gnu.tar.gz"
+[[ocl_icd]]
+arch = "i686"
+git-tree-sha1 = "69a20c2047e80d4b7136ccfc5b581f0f9cc315e7"
+libc = "musl"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "1806aa35154769c6c04c6a841598b4f2a8346c26b9d3b9caf4157186b9ba8225"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.i686-linux-musl.tar.gz"
+[[ocl_icd]]
+arch = "powerpc64le"
+git-tree-sha1 = "e621e5bc378f3eec1d5ef6c4181c8e869b0b24fe"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "1017d8a55553ce768e7688878d3df763583c4faacfdf2d1ccf132cdd425b4bae"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.powerpc64le-linux-gnu.tar.gz"
+[[ocl_icd]]
+arch = "x86_64"
+git-tree-sha1 = "f0b25d57bd11a3afab96e9950d4f65b4401681c1"
+os = "macos"
+
+    [[ocl_icd.download]]
+    sha256 = "1ffa6afb6cd15b1a97897cc103eb8d03ccdeb2159156320c6656ecb8e53ab807"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.x86_64-apple-darwin.tar.gz"
+[[ocl_icd]]
+arch = "x86_64"
+git-tree-sha1 = "cb0d61080d5a9ecd9016fdd39f7da0f65aa2ec11"
+libc = "glibc"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "a336efaa5746b60f5a9c146b754f6296e17c59798152efe6d60b51e67960c64c"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.x86_64-linux-gnu.tar.gz"
+[[ocl_icd]]
+arch = "x86_64"
+git-tree-sha1 = "6a401ae1db58e376c7fa731557c3fd56022a0fa4"
+libc = "musl"
+os = "linux"
+
+    [[ocl_icd.download]]
+    sha256 = "d9fa63b6c46deaef609d29a3c14d82b40a66808f49acca3f2a453c5dbeb8f9c7"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.x86_64-linux-musl.tar.gz"
+[[ocl_icd]]
+arch = "x86_64"
+git-tree-sha1 = "eee9f93eb102ee62706e132ea0c17922604af5f1"
+os = "freebsd"
+
+    [[ocl_icd.download]]
+    sha256 = "2a6071d8b7a5a5b5c1e9b7e72e31f47fad01ea2426964dfb3250a5e147310a11"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.x86_64-unknown-freebsd.tar.gz"
+[[ocl_icd]]
+arch = "x86_64"
+git-tree-sha1 = "27931e07bf125941658b12db190be146b4f00922"
+os = "windows"
+
+    [[ocl_icd.download]]
+    sha256 = "04dd760901c95d27bf337a0ac17382a205ece746c48b22fd3ac97a47aab99237"
+    url = "https://github.com/JuliaBinaryWrappers/ocl_icd_jll.jl/releases/download/ocl_icd-v2.3.2+0/ocl_icd.v2.3.2.x86_64-w64-mingw32.tar.gz"
